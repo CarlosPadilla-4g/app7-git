@@ -8,7 +8,7 @@
  <name> app7 Mostrar Aplicaciones </name>
  
  <descripton>
-  Aplicacion que mandara a llamar aplicaciones ya echas anteriormente.
+  Aplicacion que realiza el swipe o deslizamiento en el dispositivo
  </descripton>
  
  <author href="https://build.phonegap.com" email="carlos_120809@hotmail.com">
@@ -18,7 +18,7 @@
  <!-- Personaliza la aplicacion y plataforma -->
  <preference name="orientation"  value="default"/> 
  <!--<preference name="orientation" value="portrait"/>
- <!-- <preference name="orientation"  value="landscape" />-->
+ <preference name="orientation"  value="landscape" />-->
  <preference name="target-device" value="universal"/>
  <preference name="fullscreen" value="true"/>
  <preference name="android-installLocation" value="auto"/>
